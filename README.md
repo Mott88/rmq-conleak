@@ -1,5 +1,5 @@
 Replace the username, password and server in Program.cs
 
-Then run:
-dotnet build
-dotnet run
+Then run the commands
+- dotnet build
+- dotnet run
